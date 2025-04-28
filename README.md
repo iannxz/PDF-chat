@@ -28,7 +28,7 @@ Com visual moderno, animações e um toque interativo, é uma ferramenta ideal p
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/chat-com-pdf-gemini.git
+   git clone https://github.com/iannxz/pdf-chat.git
    cd chat-com-pdf-gemini
 
 ## 👨🏻‍💻 Créditos
